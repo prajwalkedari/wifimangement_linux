@@ -38,7 +38,7 @@ wifi.on()
 ```
 ## Connect
 
-Connect the wifi to network(name as wifi-name or your wifi name ) if the password
+Connect the wifi to network(name as wifi-name or your wifi name ) if the password already there
 ```python3
 wifi.connect("wifi-name")
 ```
