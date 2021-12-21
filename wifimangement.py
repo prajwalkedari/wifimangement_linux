@@ -106,10 +106,4 @@ def print_psk():
 			break
 			
 
-a=store()
-print(a)
-a=print_psk()
-print(a)			    
-			    
-
  
