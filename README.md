@@ -9,7 +9,7 @@ its only and only for **Linux and Unix** ,work with [Nmcli](https://access.redha
 basic wifi or network tool controlling with python
 
 **Note => its not work with any _Windows_ os**
-## what is wifimangement_linux ?
+## what is wifimanagement_linux ?
 its an **_python module_** .
 Its use for **_network or wifi controlling tool_** for  Linux/unix .
 That prove  _many function_ such as enable, disable and connect ..etc .
@@ -18,7 +18,7 @@ Its give **_full acces_** in python to **_handle system wifi_**.
 ## Installation
 Open **terminal**
 ``` bash
-sudo pip3 install wifimangement_linux
+sudo pip3 install wifimanagement_linux
 ```
 
 # Function
