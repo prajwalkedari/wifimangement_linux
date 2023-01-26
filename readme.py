@@ -1,4 +1,4 @@
-import wifimangement-linux as wifi
+import wifimanagement-linux as wifi
 
 # to disable(off) the wifi
 # wifi.off()
